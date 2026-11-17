@@ -1,0 +1,83 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.main{
+    width:100%;
+    height: 100vh;
+    background-image: url("https://images.openai.com/static-rsc-4/JjLJZuQ7GhlWWsHsiIRIXZ9NB9JppouA11Y_wtnXrScUumUW7imfciN4vWGM4JrG570HxSZL76EsSpK1ZJe8EnY9LB6vQDmvLjOLK4zyNPSaPMdVnxdU_3X7Mn7-ULy8LV3Wp9Fjlq7TJ0nPseU04yzarpyLruLLihFHn88BMuU?purpose=inline");
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.header{
+    color:rgb(255, 0, 212);
+    padding-top: 20px;
+    padding-left: 30px;
+    float: left;
+}
+.menu{
+    width:400px;
+    float:left;
+    height:70px;
+    padding-left:30%;
+}
+ul{
+    float:left;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+ul li{
+    list-style: none;
+    margin-left:62px;
+    margin-top: 27px;
+    font-size:14px;
+}
+.box{
+    width: 1000px;
+    height: 600px;
+    margin-left:250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 350px;
+}
+form {
+    width: 390px;
+    min-height: 450px;
+    backdrop-filter: blur(8px);
+    padding: 20px;
+    
+   
+}
+    
+
+h4{
+    color:blue;
+    text-align: center;
+}
+input{
+    width: 100%;
+    height: 30px;
+    margin-top: 10px;
+    outline:none;
+    border-style: none;
+    background: transparent;
+}
+label{
+        color:rgb(0, 191, 255);
+}
+select{
+    margin-top: 10px;
+    background: transparent;
+    border-style: none;
+}
+button{
+    width: 50px;
+    height: 20px;
+    background-color: chocolate;
+    border-style: none;
+    margin-top: 10px;
+    margin-left: 250px;
+    }

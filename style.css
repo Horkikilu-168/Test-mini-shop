@@ -1,0 +1,239 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.main{
+    width:100%;
+    background-image: url("https://template.canva.com/EADaosozdz0/1/0/1600w-XBJ23wlhl0s.jpg");
+    background-position: center;
+    background-size:cover;
+    height: 70px;
+}
+.header{
+    color:rgb(255, 0, 212);
+    padding-top: 20px;
+    padding-left: 30px;
+    float: left;
+}
+.menu{
+    width:400px;
+    float:left;
+    height:70px;
+    padding-left:30%;
+}
+ul{
+    float:left;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+ul li{
+    list-style: none;
+    margin-left:62px;
+    margin-top: 27px;
+    font-size:14px;
+}
+.main2{
+    float:left;
+}
+.card{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(212, 209, 204);
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 5px;
+}
+.card img{
+    width: 250px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.p1 h5{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.p1 span{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.p1 button{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: orangered;
+    color:black;
+    border-style: none;
+}
+.card2{
+    width: 300px;
+    height: 400px;
+    background-color: antiquewhite;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.card2 img{
+    width: 250px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.p2 h5{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.p2 span{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.p2 button{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: orangered;
+    color:black;
+    border-style: none;
+}
+
+.card3{
+    width: 300px;
+    height: 400px;
+    background-color: antiquewhite;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.card3 img{
+    width: 250px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.p3 h5{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.p3 span{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.p3 button{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: orangered;
+    color:black;
+    border-style: none;
+}
+.main3 {
+    float:left;
+}
+.card4{
+    width: 300px;
+    height: 400px;
+    background-color: bisque;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.card4 img{
+    width: 250px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.p4 h5{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.p4 span{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.p4 button{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: orangered;
+    color:black;
+    border-style: none;
+}
+.card5{
+    width: 300px;
+    height: 400px;
+    background-color: bisque;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.card5 img{
+    width: 250px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.p5 h5{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.p5 span{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.p5 button{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: orangered;
+    color:black;
+    border-style: none;
+}
+.card6{
+    width: 300px;
+    height: 400px;
+    background-color: bisque;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 10px;
+}
+.card6 img{
+    width: 250px;
+    height: 300px;
+    padding-top: 20px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.p6 h5{
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.p6 span{
+    padding-top: 10px;
+    padding-left: 40px;
+}
+.p6 button{
+    width: 80px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: orangered;
+    color:black;
+    border-style: none;
+}
+marquee{
+    padding:30px;
+    color:blueviolet;
+}
